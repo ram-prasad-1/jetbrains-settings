@@ -1,0 +1,6 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="meta alt f7" />
+    <mouse-shortcut keystroke="meta button3" />
+  </action>
+</keymap>
